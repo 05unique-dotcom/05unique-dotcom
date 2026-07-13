@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Arshad Ansari 👋
 
-<!--
-**05unique-dotcom/05unique-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring CSE Student | Python Developer | AI & ML Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📍 Based in Maharashtra, India
+- 🎓 MHT-CET 98.46 Percentile | JEE Main 85 Percentile
+- 🐍 Currently learning Python, AI & Web Development
+- 💡 I love building practical projects that solve real problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+`Python` `C++` `Java` `HTML` `CSS` `JavaScript` `Git` `SQL`
+
+## 📂 Projects
+- 🔗 [Python Learner App](https://python-learner--05unique7057.replit.app) — Interactive Python learning platform with quizzes & badges
+- 🌐 [Portfolio](https://arshadansari.lovable.app) — My personal portfolio website
+
+## 📊 Achievements
+- 🏆 MHT-CET — 98.46 Percentile
+- 📝 JEE Main — 85 Percentile
+
+## 📬 Connect
+- 📧 05unique7057@gmail.com
