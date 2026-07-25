@@ -1,16 +1,20 @@
-<div align="center">
+<h1 align="center">Hi 👋 I'm Arshad Ansari</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arshad%20Ansari&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
+<h3 align="center">
+Aspiring Software Engineer • Python Developer • AI & ML Enthusiast
+</h3>
 
+<p align="center">
+🚀 Stay consistent. Stay confident. Keep smiling. Never stop building.
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Python+Developer;AI+%26+ML+Enthusiast;Open+Source+Learner;Always+Building+Projects" />
+</p>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=05unique-dotcom&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 ## 👨‍💻 About Me
 
