@@ -58,11 +58,7 @@ Modern responsive portfolio website.
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -146,7 +142,7 @@ Modern responsive portfolio website.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=05unique-dotcom&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=05unique-dotcom&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
