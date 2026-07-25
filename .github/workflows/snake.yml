@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: 05unique-dotcom
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
