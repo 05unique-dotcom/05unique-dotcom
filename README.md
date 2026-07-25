@@ -134,8 +134,9 @@ Modern responsive portfolio website.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+  <img src="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake-dark.svg" 
+     alt="Snake animation" 
+     width="100%" />
 
 ---
 
