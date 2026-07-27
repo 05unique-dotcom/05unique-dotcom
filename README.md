@@ -60,7 +60,7 @@ Aspiring Software Engineer • Python Developer • AI & ML Enthusiast
 
 ## 🚀 Featured Projects
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"/>
 
 ### 🐍 Python Learner App
 
@@ -74,7 +74,7 @@ https://github.com/05unique-dotcom/python-learner-app
 
 <br clear="left"/>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/>
+<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"/>
 
 ### ⭐ PyStar
 
@@ -88,7 +88,7 @@ https://github.com/05unique-dotcom/pystar
 
 <br clear="left"/>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284103-2dc3d9b2-8650-4c0f-9c4b-c8d52c0d41f7.gif" width="80"/>
+<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"/>
 
 ### 🌐 Arshad Portfolio
 
@@ -102,7 +102,7 @@ https://github.com/05unique-dotcom/Arshad-portfolio
 
 <br clear="left"/>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284068-3a7e6d49-3c4c-49fd-8f47-fb30f85a17a8.gif" width="80"/>
+<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"/>
 
 ### 👨‍💻 GitHub Profile README
 
@@ -115,7 +115,6 @@ https://arshadansari.lovable.app/
 https://github.com/05unique-dotcom/05unique-dotcom
 
 <br clear="left"/>
-
 ---
 
 
