@@ -83,7 +83,7 @@ Interactive platform to learn Python through quizzes, progress tracking, and ach
 
 🔗 **Live Demo**
 
-https://python-learner--05unique7057.replit.app
+https://python-learner--arshadansari786.replit.app/
 
 📂 **Repository**
 
