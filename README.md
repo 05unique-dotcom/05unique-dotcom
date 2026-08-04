@@ -161,6 +161,20 @@ Modern responsive portfolio website.
 </div>
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 # 🎯 Current Focus
 
 ```text
@@ -202,29 +216,32 @@ Next ─── Open Source Contributions ❤️
 | Achievement | Result |
 |-------------|--------|
 | 🎯 MHT-CET | **98.46 Percentile** |
-| 📝 JEE Main | **85 Percentile** |
-| 💻 Python Projects | **10+ Built** |
+| 📝 JEE Main | **85 Percentile** |       | 💻 Python Projects | **10+ Built** |
 
 ---
 
-# 🤝 Connect
+---
 
-<p align="center">
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F5AF0,100:2CB67D"/>
+
+# 🤝 Let's Connect
+
+I'm always excited to connect with developers, collaborate on projects, and learn something new.
+
+<p>
 <a href="https://github.com/05unique-dotcom">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://05unique-dotcom.github.io/Arshad-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 </p>
 
-<div align="center">
+### ⭐ Thanks for visiting my profile!
 
-### Thanks for visiting my profile! 💜
-
-*"Code with purpose. Learn with passion."*
+> **"Build. Learn. Improve. Repeat."**
 
 </div>
