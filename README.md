@@ -1,34 +1,26 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=160&section=header&text=Arshad%20Ansari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=180&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Arshad%20Ansari&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=480&lines=Building+things+that+matter+%F0%9F%9A%80;Python+%7C+Web+Dev+%7C+AI+%26+ML;MHT-CET+98.46+Percentile+%E2%9C%A8;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Stay+consistent.+Stay+confident.+%F0%9F%92%AA;Python+%7C+Web+Dev+%7C+AI+%26+ML+%F0%9F%A4%96;MHT-CET+98.46+Percentile+%F0%9F%8E%AF;Never+stop+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-```python
-arshad = {
-    "location": "Maharashtra, India 🇮🇳",
-    "education": "Aspiring CSE Engineer (B.E. 2026)",
-    "focus": ["Python", "Web Development", "AI & ML"],
-    "achievements": {
-        "MHT_CET": "98.46 Percentile",
-        "JEE_Main": "85 Percentile"
-    },
-    "currently_building": "Python Learner App + Personal Portfolio",
-    "goal": "Become an Engineer who builds & helps others grow"
-}
-```
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-> *"Stay consistent. Stay confident. Keep smiling. Never stop building."*
+- 📍 **Maharashtra, India**
+- 🎓 **Aspiring CSE Student** — B.E. 2026
+- 🤖 **Passionate about** Python, AI & ML
+- 💻 **Currently learning** Web Development (React, Tailwind)
+- 🌱 **Building** real-world projects to grow every day
+- 🤝 **Goal:** Become an Engineer & help others grow
+- ⚡ **Fun fact:** I draw anime characters (Goku is my fav 🐉)
 
 ---
 
@@ -36,20 +28,16 @@ arshad = {
 
 <div align="center">
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -57,21 +45,47 @@ arshad = {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Live | Repo |
-|---------|-------------|------|------|
-| 🐍 **Python Learner App** | Interactive quiz-based Python learning platform with badges & progress tracking | [Demo](https://python-learner--05unique7057.replit.app) | [GitHub](https://github.com/05unique-dotcom/python-learner-app) |
-| 🏎️ **NITRO RUSH** | 3D browser racing game with Three.js, WebGL & mobile touch joystick controls | *Coming Soon* | [GitHub](https://github.com/05unique-dotcom) |
-| 🌐 **Arshad Portfolio** | Personal responsive portfolio showcasing projects & skills | [Visit](https://05unique-dotcom.github.io/Arshad-Portfolio/index1.html) | [GitHub](https://github.com/05unique-dotcom/Arshad-portfolio) |
-| ⭐ **PyStar** | Python-based learning & experimentation project | [Demo](https://pystar.lovable.app/) | [GitHub](https://github.com/05unique-dotcom/pystar) |
+### 🐍 Python Learner App
+> Interactive learning platform with quizzes, badges and progress tracking.
+
+🔗 [Live Demo](https://python-learner--05unique7057.replit.app) &nbsp;|&nbsp; 📁 [GitHub Repository](https://github.com/05unique-dotcom/python-learner-app)
 
 ---
 
-## 📈 GitHub Stats
+### 🏎️ NITRO RUSH
+> High-speed 3D browser racing game built with Three.js, WebGL & mobile touch joystick controls.
+
+🔗 *Live Demo — Coming Soon* &nbsp;|&nbsp; 📁 [GitHub Repository](https://github.com/05unique-dotcom)
+
+---
+
+### ⭐ PyStar
+> Python-based project for learning and experimentation.
+
+🔗 [Live Demo](https://pystar.lovable.app/) &nbsp;|&nbsp; 📁 [GitHub Repository](https://github.com/05unique-dotcom/pystar)
+
+---
+
+### 🌐 Arshad Portfolio
+> Modern responsive portfolio website.
+
+🔗 [Live Demo](https://05unique-dotcom.github.io/Arshad-Portfolio/index1.html) &nbsp;|&nbsp; 📁 [GitHub Repository](https://github.com/05unique-dotcom/Arshad-portfolio)
+
+---
+
+### 🧑‍💻 GitHub Profile README
+> My GitHub profile README with stats, achievements and project showcase.
+
+🔗 [Live Demo](https://arshadansari.lovable.app/) &nbsp;|&nbsp; 📁 [GitHub Repository](https://github.com/05unique-dotcom/05unique-dotcom)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -93,19 +107,26 @@ arshad = {
 
 ---
 
-## 🎯 Goals for 2026
+## 📅 Contribution Graph
 
-- [x] Build 10+ personal projects
-- [x] Master Python (OOP, Projects)
-- [x] Learn React & Web Development
-- [ ] Get into a top CSE college (B.E.)
-- [ ] Build 20+ projects & open-source contributions
-- [ ] Learn AI & Machine Learning deeply
-- [ ] Land a Software Engineering internship
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=05unique-dotcom&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🎯 Currently Working On
+
+- 🔥 Advanced Python & DSA
+- 🤖 AI & Machine Learning basics
+- 🌐 Full Stack Web Development (React + Node)
+- 📱 Building 20+ Projects
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -115,21 +136,55 @@ arshad = {
 
 ---
 
-## 📬 Connect With Me
+## 🎯 Goals for 2026
+
+- ✅ Build 10+ Projects
+- ✅ Learn AI & Machine Learning
+- ✅ Master Python (OOP + Projects)
+- 🔲 Get Software Engineering Internship
+- 🔲 Build 20+ Open Source Projects
+- 🔲 Master Full Stack Development
+
+---
+
+## 🏅 Achievements
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-05unique--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/05unique-dotcom)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://05unique-dotcom.github.io/Arshad-Portfolio/)
+| Exam | Score |
+|------|-------|
+| 🎯 MHT-CET | **98.46 Percentile** |
+| 📝 JEE Main | **85 Percentile** |
+
+</div>
+
+---
+
+## 💬 Quote
+
+<div align="center">
+
+> *"Stay consistent. Stay confident. Keep smiling. Never stop building."*
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-05unique--dotcom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/05unique-dotcom)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://05unique-dotcom.github.io/Arshad-Portfolio/index1.html)
 
 </div>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" width="100%"/>
+*From Maharashtra 🌿 — Building, learning, and helping — one commit at a time.*
 
-*From Maharashtra 🌿 — Building, learning, and helping one commit at a time.*
-
+![Profile Views](https://komarev.com/ghpvc/?username=05unique-dotcom&color=a855f7&style=flat-square)
 </div>
