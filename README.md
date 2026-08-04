@@ -143,12 +143,22 @@ Modern responsive portfolio website.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=05unique-dotcom&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
 ---
 
 # 🎯 Current Focus
@@ -162,15 +172,19 @@ Modern responsive portfolio website.
 🚀 Building Real Projects
 ```
 
-# 🌱 Learning Journey
+# 🌱 Learning Journey (2026)
 
-2024 ───── Python 🐍
-
-2025 ───── Web Development 🌐
-
-2026 ───── AI & Machine Learning 🤖
-
-Next ───── Full Stack Engineering 🚀
+```text
+Jan ───── Mastered Python Fundamentals 🐍
+Feb ───── Built Real-World Python Projects 🚀
+Mar ───── Started Web Development 🌐
+Apr ───── Learned HTML • CSS • JavaScript
+May ───── Exploring React & Tailwind CSS ⚛
+Jun ───── Building Full-Stack Projects 💻
+Jul ───── Started Data Structures & Algorithms 📚
+Aug ───── Exploring AI & Machine Learning 🤖
+Next ─── Open Source Contributions ❤️
+```
 
 ---
 
@@ -182,9 +196,7 @@ Next ───── Full Stack Engineering 🚀
 | 📝 JEE Main | **85 Percentile** |
 | 💻 Python Projects | **10+ Built** |
 
-# 💡 Philosophy
-
-> Build. Learn. Improve. Repeat.
+---
 
 # 🤝 Connect
 
@@ -199,7 +211,7 @@ Next ───── Full Stack Engineering 🚀
 </a>
 
 </p>
-===
+
 <div align="center">
 
 ### Thanks for visiting my profile! 💜
