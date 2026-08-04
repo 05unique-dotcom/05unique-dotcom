@@ -72,45 +72,35 @@ Fun Fact:
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🐍 Python Learner App
 
-Interactive Python learning platform designed for beginners.
+Interactive platform to learn Python through quizzes, progress tracking, and achievements.
 
-✨ Features
-
-- 📚 Interactive Lessons
-- 🧠 Python Quizzes
-- 🏅 Achievement Badges
-- 📈 Progress Tracking
+**Tech**
+`Python` `HTML` `CSS`
 
 🔗 **Live Demo**
 
 https://python-learner--05unique7057.replit.app
 
-📂 **Source Code**
+📂 **Repository**
 
 https://github.com/05unique-dotcom/python-learner-app
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏎️ Nitro Rush
+### 🏎 Nitro Rush
 
-A modern 3D racing game built with Three.js.
+A mobile-friendly 3D browser racing game powered by Three.js.
 
-✨ Features
-
-- 🎮 Mobile Controls
-- 🌍 3D Environment
-- ⚡ High Speed Gameplay
-- 🚗 Smooth Physics
+**Tech**
+`Three.js` `JavaScript` `WebGL`
 
 🚧 Coming Soon
-
-📂 https://github.com/05unique-dotcom
 
 </td>
 
@@ -118,41 +108,29 @@ A modern 3D racing game built with Three.js.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⭐ PyStar
 
-Python experimentation platform.
+Python experimentation and learning platform.
 
-✨ Features
+**Tech**
+`Python` `JavaScript`
 
-- 🐍 Python Playground
-- ⚡ Fast UI
-- 📖 Learning Based
-- 💡 Practice Friendly
-
-🌐 https://pystar.lovable.app
-
-📂 https://github.com/05unique-dotcom/pystar
+🌍 https://pystar.lovable.app/
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio
 
-My personal portfolio website.
+Modern responsive portfolio website.
 
-✨ Features
+**Tech**
+`HTML` `CSS` `JavaScript`
 
-- 📱 Responsive Design
-- ⚛ Modern UI
-- 🚀 Fast Loading
-- 🎨 Smooth Animations
-
-🌐 https://05unique-dotcom.github.io/Arshad-Portfolio/
-
-📂 https://github.com/05unique-dotcom/Arshad-portfolio
+🌍 https://05unique-dotcom.github.io/Arshad-Portfolio/
 
 </td>
 
@@ -161,22 +139,71 @@ My personal portfolio website.
 
 ---
 
-# 🛠 Tech Stack
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,tailwind,git,github,vscode"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=transparent&hide_border=true"/>
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🐍 Advanced Python
+⚛ React.js
+🌐 Node.js
+🤖 Artificial Intelligence
+📚 Data Structures & Algorithms
+🚀 Building Real Projects
+```
+
+# 🌱 Learning Journey
+
+2024 ───── Python 🐍
+
+2025 ───── Web Development 🌐
+
+2026 ───── AI & Machine Learning 🤖
+
+Next ───── Full Stack Engineering 🚀
 
 ---
 
-# 📚 Currently Learning
+# 🏆 Achievements
+
+| Achievement | Result |
+|-------------|--------|
+| 🎯 MHT-CET | **98.46 Percentile** |
+| 📝 JEE Main | **85 Percentile** |
+| 💻 Python Projects | **10+ Built** |
+
+# 💡 Philosophy
+
+> Build. Learn. Improve. Repeat.
+
+# 🤝 Connect
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,mongodb,tensorflow"/>
+<a href="https://github.com/05unique-dotcom">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://05unique-dotcom.github.io/Arshad-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </p>
+===
+<div align="center">
 
----
+### Thanks for visiting my profile! 💜
+
+*"Code with purpose. Learn with passion."*
+
+</div>
