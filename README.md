@@ -218,7 +218,6 @@ Next ─── Open Source Contributions ❤️
 | 🎯 MHT-CET | **98.46 Percentile** |
 | 📝 JEE Main | **85 Percentile** |       | 💻 Python Projects | **10+ Built** |
 
----
 
 ---
 
