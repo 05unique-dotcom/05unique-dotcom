@@ -1,223 +1,135 @@
-<h1 align="center">Hi 👋 I'm Arshad Ansari</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Software Engineer • Python Developer • AI & ML Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=160&section=header&text=Arshad%20Ansari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
-<p align="center">
-🚀 Stay consistent. Stay confident. Keep smiling. Never stop building.
-</p>
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Python+Developer;AI+%26+ML+Enthusiast;Open+Source+Learner;Always+Building+Projects" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=05unique-dotcom&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=480&lines=Building+things+that+matter+%F0%9F%9A%80;Python+%7C+Web+Dev+%7C+AI+%26+ML;MHT-CET+98.46+Percentile+%E2%9C%A8;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
-</p>
+```python
+arshad = {
+    "location": "Maharashtra, India 🇮🇳",
+    "education": "Aspiring CSE Engineer (B.E. 2026)",
+    "focus": ["Python", "Web Development", "AI & ML"],
+    "achievements": {
+        "MHT_CET": "98.46 Percentile",
+        "JEE_Main": "85 Percentile"
+    },
+    "currently_building": "Python Learner App + Personal Portfolio",
+    "goal": "Become an Engineer who builds & helps others grow"
+}
+```
+
+> *"Stay consistent. Stay confident. Keep smiling. Never stop building."*
 
 ---
 
-- 📍 Maharashtra, India
-- 🎓 Aspiring CSE Student
-- 💻 Passionate about Python, AI & ML
-- 🌱 Currently learning Web Development
-- 🚀 Building real-world projects
-- 🎯 Goal: Become an AI Engineer & Software Developer
+## 🛠️ Tech Stack
 
+<div align="center">
 
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Frameworks & Tools**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode,c,cpp,java&perline=5"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"/>
-
-### 🐍 Python Learner App
-
-Interactive learning platform with quizzes, badges and progress tracking.
-
-🔗 **Live Demo**  
-https://python-learner--05unique7057.replit.app
-
-📂 **GitHub Repository**  
-https://github.com/05unique-dotcom/python-learner-app
-
-<br clear="left"/>
-
-<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"/>
-
-### ⭐ PyStar
-
-Python-based project for learning and experimentation.
-
-🔗 **Live Demo**  
-https://pystar.lovable.app/
-
-📂 **GitHub Repository**  
-https://github.com/05unique-dotcom/pystar
-
-<br clear="left"/>
-
-<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"/>
-
-### 🌐 Arshad Portfolio
-
-Modern responsive portfolio website.
-
-🔗 **Live Demo**  
-https://05unique-dotcom.github.io/Arshad-Portfolio/index1.html
-
-📂 **GitHub Repository**  
-https://github.com/05unique-dotcom/Arshad-portfolio
-
-<br clear="left"/>
-
-<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"/>
-
-### 👨‍💻 GitHub Profile README
-
-My GitHub profile README with stats, achievements and project showcase.
-
-🔗 **Live Demo**  
-https://arshadansari.lovable.app/
-
-📂 **GitHub Repository**  
-https://github.com/05unique-dotcom/05unique-dotcom
-
-<br clear="left"/>
----
-
-
-### 🌐 Personal Portfolio
-Modern responsive portfolio website.
-🔗 https://arshadansari.lovable.app
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+| Project | Description | Live | Repo |
+|---------|-------------|------|------|
+| 🐍 **Python Learner App** | Interactive quiz-based Python learning platform with badges & progress tracking | [Demo](https://python-learner--05unique7057.replit.app) | [GitHub](https://github.com/05unique-dotcom/python-learner-app) |
+| 🏎️ **NITRO RUSH** | 3D browser racing game with Three.js, WebGL & mobile touch joystick controls | *Coming Soon* | [GitHub](https://github.com/05unique-dotcom) |
+| 🌐 **Arshad Portfolio** | Personal responsive portfolio showcasing projects & skills | [Visit](https://05unique-dotcom.github.io/Arshad-Portfolio/index1.html) | [GitHub](https://github.com/05unique-dotcom/Arshad-portfolio) |
+| ⭐ **PyStar** | Python-based learning & experimentation project | [Demo](https://pystar.lovable.app/) | [GitHub](https://github.com/05unique-dotcom/pystar) |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&hide_border=true&height=170"/>
-&nbsp;
-<img src=https://github-readme-stats-sigma-five.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&hide_border=true
+<div align="center">
 
-## 🔥 GitHub Streak
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=05unique-dotcom&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
 
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=05unique-dotcom&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=05unique-dotcom&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</p>
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=05unique-dotcom&theme=tokyo-night"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 🌱 Currently Working On
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
-
-- 🐍 Advanced Python
-- 🤖 AI & Machine Learning
-- 🌐 Full Stack Web Development
-- 🚀 Open Source Contributions
-
-<br clear="right"/>
 
 ## 🎯 Goals for 2026
 
-- ✅ Build 20+ Projects
-- ✅ Contribute to Open Source
-- ✅ Master Python
-- ✅ Learn AI & Machine Learning
-- ✅ Get Software Engineering Internship
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 💭 Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+- [x] Build 10+ personal projects
+- [x] Master Python (OOP, Projects)
+- [x] Learn React & Web Development
+- [ ] Get into a top CSE college (B.E.)
+- [ ] Build 20+ projects & open-source contributions
+- [ ] Learn AI & Machine Learning deeply
+- [ ] Land a Software Engineering internship
 
 ---
 
 ## 🏆 Achievements
 
-🏅 MHT-CET — **98.46 Percentile**
+<div align="center">
 
-🏅 JEE Main — **85 Percentile**
+![Trophies](https://github-profile-trophy.vercel.app/?username=05unique-dotcom&theme=tokyonight&no-frame=true&column=4&margin-w=8)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-<p align="center">
-<a href="mailto:05unique7057@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/05unique-dotcom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://arshadansari.lovable.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+[![GitHub](https://img.shields.io/badge/GitHub-05unique--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/05unique-dotcom)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://05unique-dotcom.github.io/Arshad-Portfolio/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" width="100%"/>
+
+*From Maharashtra 🌿 — Building, learning, and helping one commit at a time.*
+
+</div>
