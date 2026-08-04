@@ -26,7 +26,7 @@
 # 💻 About Me
 
 ```text
-> whoami
+> who am i ?
 ```
 
 ```yaml
@@ -72,7 +72,7 @@ Fun Fact:
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ### 🐍 Python Learner App
 
@@ -176,14 +176,23 @@ Modern responsive portfolio website.
 
 ```text
 Jan ───── Mastered Python Fundamentals 🐍
+
 Feb ───── Built Real-World Python Projects 🚀
+
 Mar ───── Started Web Development 🌐
+
 Apr ───── Learned HTML • CSS • JavaScript
+
 May ───── Exploring React & Tailwind CSS ⚛
+
 Jun ───── Building Full-Stack Projects 💻
+
 Jul ───── Started Data Structures & Algorithms 📚
+
 Aug ───── Exploring AI & Machine Learning 🤖
+
 Next ─── Open Source Contributions ❤️
+
 ```
 
 ---
