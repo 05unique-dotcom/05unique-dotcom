@@ -66,3 +66,117 @@ Fun Fact:
 - 📚 Always learning something new
 
 ---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🐍 Python Learner App
+
+Interactive Python learning platform designed for beginners.
+
+✨ Features
+
+- 📚 Interactive Lessons
+- 🧠 Python Quizzes
+- 🏅 Achievement Badges
+- 📈 Progress Tracking
+
+🔗 **Live Demo**
+
+https://python-learner--05unique7057.replit.app
+
+📂 **Source Code**
+
+https://github.com/05unique-dotcom/python-learner-app
+
+</td>
+
+<td width="50%">
+
+### 🏎️ Nitro Rush
+
+A modern 3D racing game built with Three.js.
+
+✨ Features
+
+- 🎮 Mobile Controls
+- 🌍 3D Environment
+- ⚡ High Speed Gameplay
+- 🚗 Smooth Physics
+
+🚧 Coming Soon
+
+📂 https://github.com/05unique-dotcom
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⭐ PyStar
+
+Python experimentation platform.
+
+✨ Features
+
+- 🐍 Python Playground
+- ⚡ Fast UI
+- 📖 Learning Based
+- 💡 Practice Friendly
+
+🌐 https://pystar.lovable.app
+
+📂 https://github.com/05unique-dotcom/pystar
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+My personal portfolio website.
+
+✨ Features
+
+- 📱 Responsive Design
+- ⚛ Modern UI
+- 🚀 Fast Loading
+- 🎨 Smooth Animations
+
+🌐 https://05unique-dotcom.github.io/Arshad-Portfolio/
+
+📂 https://github.com/05unique-dotcom/Arshad-portfolio
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,tailwind,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,mongodb,tensorflow"/>
+
+</p>
+
+---
