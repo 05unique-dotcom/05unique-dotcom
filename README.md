@@ -143,9 +143,9 @@ Modern responsive portfolio website.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://streak-stats.demolab.com?user=05unique-dotcom&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=05unique-dotcom&theme=tokyonight"/>
 
 </div>
 
@@ -165,11 +165,7 @@ Modern responsive portfolio website.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
