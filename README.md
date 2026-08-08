@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/05unique-dotcom/Arshad-Portfolio/main/banner.png)
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,100:2CB67D&text=Arshad%20Ansari&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&animation=fadeIn"/>
