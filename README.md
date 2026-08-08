@@ -102,11 +102,11 @@ A mobile-friendly 3D browser racing game powered by Three.js.
 **Tech**
 `Three.js` `JavaScript` `WebGL`
 
-[
+
 
 ![Live](https://img.shields.io/badge/🚀_Play_Now-Live-00ccff?style=flat-square)
 
-](https://nitro-rush-revamped.lovable.app)
+(https://nitro-rush-revamped.lovable.app)
 
 </td>
 
