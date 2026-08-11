@@ -100,11 +100,14 @@ A mobile-friendly 3D browser racing game powered by Three.js.
 `Three.js` `JavaScript` `WebGL`
 
 
-**Repository**
+![Live](https://img.shields.io/badge/🚀_Play_Now-Live-00ccff?style=flat-square)
+
+
+📂 **Repository**
 
 https://github.com/05unique-dotcom/nitro-rush-revamped
 
-![Live](https://img.shields.io/badge/🚀_Play_Now-Live-00ccff?style=flat-square)
+
 
 (https://nitro-rush-revamped.lovable.app)
 
