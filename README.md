@@ -154,7 +154,7 @@ Modern responsive portfolio website.
 
 <img height="170" src="https://streak-stats.demolab.com?user=05unique-dotcom&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=05unique-dotcom&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
@@ -184,45 +184,52 @@ Modern responsive portfolio website.
 
 ```text
 🐍 Advanced Python
+📚 Data Structures & Algorithms
+🤖 Artificial Intelligence
 ⚛ React.js
 🌐 Node.js
-🤖 Artificial Intelligence
-📚 Data Structures & Algorithms
 🚀 Building Real Projects
 ```
 
+
+### 2. 🌱 Learning Journey — mobile-friendly
+
+```text id="m4p82"
 # 🌱 Learning Journey (2026)
 
 ```text
-Jan ───── Mastered Python Fundamentals 🐍
+Jan ───── Python Fundamentals 🐍
 
-Feb ───── Built Real-World Python Projects 🚀
+Feb ───── Real-World Python 🚀
 
-Mar ───── Started Web Development 🌐
+Mar ───── Web Development 🌐
 
-Apr ───── Learned HTML • CSS • JavaScript
+Apr ───── HTML • CSS • JavaScript
 
-May ───── Exploring React & Tailwind CSS ⚛
+May ───── React & Tailwind ⚛
 
-Jun ───── Building Full-Stack Projects 💻
+Jun ───── Full-Stack Projects 💻
 
-Jul ───── Started Data Structures & Algorithms 📚
+Jul ───── Data Structures & Algorithms 📚
 
-Aug ───── Exploring AI & Machine Learning 🤖
+Aug ───── AI & Machine Learning 🤖
 
-Next ─── Open Source Contributions ❤️
-
+Next ─── Open Source contribution ❤️
 ```
 
 ---
 
+
+### 3. 🏆 Achievements — corrected
+
+```markdown id="q9r34"
 # 🏆 Achievements
 
 | Achievement | Result |
 |-------------|--------|
 | 🎯 MHT-CET | **98.46 Percentile** |
-| 📝 JEE Main | **85 Percentile** |       | 💻 Python Projects | **10+ Built** |
-
+| 📝 JEE Main | **85 Percentile** |
+| 💻 Python Projects | **10+ Built** |
 
 ---
 
