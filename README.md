@@ -220,16 +220,12 @@ Next ─── Open Source contribution ❤️
 ---
 
 
-### 3. 🏆 Achievements — corrected
-
-```markdown id="q9r34"
 # 🏆 Achievements
 
 | Achievement | Result |
 |-------------|--------|
 | 🎯 MHT-CET | **98.46 Percentile** |
 | 📝 JEE Main | **85 Percentile** |
-| 💻 Python Projects | **10+ Built** |
 
 ---
 
