@@ -154,7 +154,21 @@ Modern responsive portfolio website.
 
 <img height="170" src="https://streak-stats.demolab.com?user=05unique-dotcom&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=05unique-dotcom&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
 
 </div>
 
