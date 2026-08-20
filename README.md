@@ -170,19 +170,8 @@ Modern responsive portfolio website.
 
 ---
 
-</div>
 
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=05unique-dotcom&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
----
 
 # 🐍 Contribution Snake
 
