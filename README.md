@@ -34,7 +34,7 @@ Name: Arshad Ansari
 Location: Maharashtra, India 🇮🇳
 
 Education:
-  • Aspiring Computer Science Engineer
+  • B.Tech CSE (Data Science), VIT Pune
 
 Interests:
   • Python
@@ -203,21 +203,13 @@ Modern responsive portfolio website.
 
 ```text
 Jan ───── Python Fundamentals 🐍
-
 Feb ───── Real-World Python 🚀
-
 Mar ───── Web Development 🌐
-
 Apr ───── HTML • CSS • JavaScript
-
 May ───── React & Tailwind ⚛
-
 Jun ───── Full-Stack Projects 💻
-
 Jul ───── Data Structures & Algorithms 📚
-
 Aug ───── AI & Machine Learning 🤖
-
 Next ─── Open Source contribution ❤️
 ```
 
