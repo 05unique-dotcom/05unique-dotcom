@@ -66,6 +66,22 @@ Fun Fact:
 
 ---
 
+🤝 Open Source Contributions
+
+I'm on a journey to contribute to open-source projects, collaborate with developers, and learn from the developer community.
+
+- 🌱 Learning how to contribute to open-source projects
+- 🛠️ Improving documentation, fixing bugs, and building useful features
+- 🤝 Collaborating with developers through GitHub issues and pull requests
+- 📚 Learning best practices for clean, maintainable code
+
+📌 My Contributions
+
+- "Merged Pull Requests" (https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A05unique-dotcom)
+- "My GitHub Repositories" (https://github.com/05unique-dotcom?tab=repositories)
+
+---
+
 # 🚀 Featured Projects
 
 <table>
